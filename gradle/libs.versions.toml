@@ -1,5 +1,5 @@
 [versions]
-agp = "8.9.1"
+agp = "8.11.2"
 coreTesting = "2.2.0"
 datastorePreferences = "1.2.0"
 hiltVersion = "2.51"
@@ -15,7 +15,7 @@ constraintlayout = "2.2.1"
 
 mockk = "1.13.10"
 playServicesLocation = "21.0.1"
-roomCompiler = "2.8.3"
+roomCompiler = "2.8.4"
 retrofit = "3.0.0"
 okhttp = "4.12.0"
 lifecycle = "2.10.0"

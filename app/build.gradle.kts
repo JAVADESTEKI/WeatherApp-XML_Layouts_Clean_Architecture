@@ -80,11 +80,10 @@ dependencies {
 
     implementation(libs.hilt.android)
     ksp(libs.hilt.android.compiler)
-    ksp(libs.hilt.compiler)
+
 
     implementation(libs.androidx.datastore.preferences)
-    // Alternatively - without an Android dependency.
-    implementation(libs.androidx.datastore.preferences.core)
+
 
     implementation(libs.play.services.location)
 
